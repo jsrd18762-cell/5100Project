@@ -1,0 +1,20 @@
+{
+  "fits": [
+    {
+      "comparison": "dropout_bn",
+      "formula": "z_coef ~ C(dropout_factor) * bn",
+      "reml": false,
+      "converged": true,
+      "n_observations": 12800,
+      "n_models": 200,
+      "model_random_intercept_variance": 0.002657365141872658,
+      "residual_variance": 0.09582818428548714,
+      "ICC": 0.026982284785166948,
+      "warnings": [
+        "The MLE may be on the boundary of the parameter space."
+      ],
+      "log_likelihood": -3255.199399252735,
+      "note": "Coefficients and CI are on Fisher-z scale; not Pearson-r increments or Cohen d."
+    }
+  ]
+}

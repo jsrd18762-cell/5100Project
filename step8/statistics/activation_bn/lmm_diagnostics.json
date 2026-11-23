@@ -1,0 +1,20 @@
+{
+  "fits": [
+    {
+      "comparison": "activation_bn",
+      "formula": "z_coef ~ activation * bn_position",
+      "reml": false,
+      "converged": true,
+      "n_observations": 12800,
+      "n_models": 200,
+      "model_random_intercept_variance": 0.0031224808066117656,
+      "residual_variance": 0.09855190452434971,
+      "ICC": 0.030710594378788147,
+      "warnings": [
+        "The MLE may be on the boundary of the parameter space."
+      ],
+      "log_likelihood": -3443.2949626134505,
+      "note": "Coefficients and CI are on Fisher-z scale; not Pearson-r increments or Cohen d."
+    }
+  ]
+}

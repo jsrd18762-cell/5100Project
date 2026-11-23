@@ -1,0 +1,22 @@
+{
+  "fits": [
+    {
+      "comparison": "bn",
+      "formula": "z_coef ~ bn",
+      "reml": true,
+      "converged": true,
+      "n_observations": 2560,
+      "n_models": 40,
+      "model_random_intercept_variance": 0.002381821638252869,
+      "residual_variance": 0.07194087065147696,
+      "ICC": 0.03204703119429377,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals",
+        "Retrying MixedLM optimization with lbfgs",
+        "The MLE may be on the boundary of the parameter space."
+      ],
+      "log_likelihood": -292.1977670648557,
+      "note": "Coefficients and CI are on Fisher-z scale; not Pearson-r increments or Cohen d."
+    }
+  ]
+}

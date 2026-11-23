@@ -1,0 +1,19 @@
+{
+  "seed": 629,
+  "expression_path": "dataset\\gtex_RSEM_gene_tpm",
+  "sample_count": 7862,
+  "gene_count": 60498,
+  "chunks_processed": 237,
+  "chunk_rows": 256,
+  "sample_rows_per_chunk": 4,
+  "max_plot_values_per_series": 300000,
+  "input_scale_assumption": "stored values are log2(TPM + 0.001)",
+  "inverse_transform": "approximate_TPM = maximum(exp2(stored_value) - 0.001, 0)",
+  "candidate_transforms": [
+    "log2(TPM + 0.001)",
+    "log2(TPM + 0.01)",
+    "log2(TPM + 0.1)",
+    "log2(TPM + 1)"
+  ],
+  "note": "Summaries and figures use deterministic sampled values, not the full matrix."
+}

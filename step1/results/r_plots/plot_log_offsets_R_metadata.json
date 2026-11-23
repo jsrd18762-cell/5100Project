@@ -1,0 +1,16 @@
+{
+  "cache_version": 1,
+  "source_size": 3684373114,
+  "seed": 629,
+  "chunk_rows": 256,
+  "sample_rows_per_chunk": 4,
+  "max_plot_values": 300000,
+  "sample_count": 7862,
+  "gene_count": 60498,
+  "chunks_processed": 237,
+  "expression_path": "dataset/gtex_RSEM_gene_tpm",
+  "input_scale_assumption": "stored values are log2(TPM + 0.001)",
+  "inverse_transform": "approximate_TPM = maximum(exp2(stored_value) - 0.001, 0)",
+  "candidate_transforms": ["log2(TPM + 0.001)", "log2(TPM + 0.010)", "log2(TPM + 0.100)", "log2(TPM + 1.000)"],
+  "note": "Figures use the same deterministic sampled values as the Python comparison; they are not full-matrix distributions."
+}

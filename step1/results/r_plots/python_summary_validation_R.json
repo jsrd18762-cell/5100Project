@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "max_absolute_difference": 3.5527e-15,
+  "tolerance": 1e-05,
+  "compared_series": 5
+}

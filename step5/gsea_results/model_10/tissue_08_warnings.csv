@@ -1,0 +1,147 @@
+model_number,source_tissue_id,unit_id,message
+10,"tissue_08","unit_00000","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00001","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00002","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00002","There were 5 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00003","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00003","There were 5 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00004","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00004","There were 3 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00005","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00006","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00007","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00008","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00008","There were 5 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00009","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00010","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00010","There were 1 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00011","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00012","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00012","There were 16 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00013","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00014","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00015","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00016","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00016","There were 6 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00017","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00018","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00019","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00020","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00020","There were 9 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00021","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00022","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00023","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00023","There were 3 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00024","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00025","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00026","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00027","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00028","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00029","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00029","There were 8 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00030","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00030","There were 4 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00031","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00032","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00033","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00034","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00034","There were 8 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00035","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00036","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00036","There were 2 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00037","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00038","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00038","There were 9 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00039","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00039","There were 8 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00040","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00041","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00042","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00043","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00043","There were 9 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00044","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00045","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00046","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00047","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00048","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00049","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00050","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00051","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00051","There were 10 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00052","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00053","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00054","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00055","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00056","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00057","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00058","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00059","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00060","There are ties in the preranked stats (0.03% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00060","There were 13 pathways for which P-values were not calculated properly due to unbalanced (positive and negative) gene-level statistic values. For such pathways pval, padj, NES, log2err are set to NA. You can try to increase the value of the argument nPermSimple (for example set it nPermSimple = 10000)"
+10,"tissue_08","unit_00061","There are ties in the preranked stats (0.01% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00062","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+10,"tissue_08","unit_00063","There are ties in the preranked stats (0.02% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."

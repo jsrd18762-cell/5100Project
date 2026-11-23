@@ -1,0 +1,3 @@
+comparison,term,estimate,standard_error,wald_z,p_value,ci95_low,ci95_high,scale,n_observations,n_models,estimation,q_fixed_effects,correction_family,significant_q_lt_0_05
+bn,Intercept,0.46730290199294916,0.013239897549041304,35.295054229991862,6.9934116137498537e-273,0.44135317963782805,0.49325262434807027,Fisher_z,2560,40,REML,NA,bn_nonintercept_fixed_effects,False
+bn,bn,0.32739402854560395,0.018724042678284512,17.485221229777697,1.8569098156181715e-68,0.2906955792511754,0.36409247784003251,Fisher_z,2560,40,REML,1.8569098156181715e-68,bn_nonintercept_fixed_effects,True

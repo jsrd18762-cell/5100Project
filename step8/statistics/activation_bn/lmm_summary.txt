@@ -1,0 +1,23 @@
+                                Mixed Linear Model Regression Results
+=====================================================================================================
+Model:                           MixedLM                Dependent Variable:                z_coef    
+No. Observations:                12800                  Method:                            ML        
+No. Groups:                      200                    Scale:                             0.0986    
+Min. group size:                 64                     Log-Likelihood:                    -3443.2950
+Max. group size:                 64                     Converged:                         Yes       
+Mean group size:                 64.0                                                                
+-----------------------------------------------------------------------------------------------------
+                                                          Coef.  Std.Err.    z    P>|z| [0.025 0.975]
+-----------------------------------------------------------------------------------------------------
+Intercept                                                  0.795    0.015  52.049 0.000  0.765  0.825
+activation[T.ReLU]                                        -0.627    0.022 -29.023 0.000 -0.669 -0.584
+activation[T.Sigmoid]                                     -0.179    0.022  -8.273 0.000 -0.221 -0.136
+activation[T.Swish]                                       -0.649    0.022 -30.059 0.000 -0.691 -0.607
+activation[T.Tanh]                                         0.175    0.022   8.108 0.000  0.133  0.217
+bn_position[T.linear_activation_bn]                        0.059    0.022   2.730 0.006  0.017  0.101
+activation[T.ReLU]:bn_position[T.linear_activation_bn]     0.359    0.031  11.771 0.000  0.300  0.419
+activation[T.Sigmoid]:bn_position[T.linear_activation_bn] -0.394    0.031 -12.916 0.000 -0.454 -0.335
+activation[T.Swish]:bn_position[T.linear_activation_bn]    0.462    0.031  15.142 0.000  0.403  0.522
+activation[T.Tanh]:bn_position[T.linear_activation_bn]    -0.978    0.031 -32.014 0.000 -1.037 -0.918
+Group Var                                                  0.003    0.001                            
+=====================================================================================================

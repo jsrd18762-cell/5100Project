@@ -1,0 +1,3 @@
+comparison,reference_condition,contrasted_condition,source_term,dependent_variable,estimate_fisher_z,std_error,z_statistic,p_value_display,p_value_interpretation,ci95_low,ci95_high,method,n_observations,n_model_groups,observations_per_group,converged,source_file
+deep_minus_shallow,shallow,deep,group[T.deep],z_coef,-0.552,0.013,-43.962,0.000,"p < 0.001; source displays 0.000 to three decimals",-0.576,-0.527,REML,2560,40,64,Yes,Autoencoder-interpretability-main/lmm/results/experiment_4_deep_result.txt
+full_minus_small,small,full,group[T.large],z_coef,0.111,0.012,9.602,0.000,"p < 0.001; source displays 0.000 to three decimals",0.088,0.133,REML,2560,40,64,Yes,Autoencoder-interpretability-main/lmm/results/experiment_4_small_result.txt
